@@ -1,4 +1,4 @@
-# Weather App using tkinter ☀️⛅☁️🌩️🌧️⛈️🌨️
+# Weather App using tkinter ☀️⛅☁️🌩️🌧️⛈️🌨️ ![license](https://img.shields.io/github/license/Pegah-Ardehkhani/WeatherApp.svg) ![releases](https://img.shields.io/github/release/Pegah-Ardehkhani/WeatherApp.svg)
 
 <p align="center">
   <img width="650" height="350" src="https://icon-library.com/images/weather-icon-gif/weather-icon-gif-9.jpg">
