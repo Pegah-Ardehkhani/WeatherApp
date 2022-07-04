@@ -9,5 +9,5 @@
 You just need to write down the name of a city.
 
 <p align="center">
-  <img width="500" height="600" src="">
+  <img width="500" height="600" src="https://github.com/Pegah-Ardehkhani/WeatherApp/blob/main/App_Animation.gif">
 </p>
